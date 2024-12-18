@@ -10,5 +10,3 @@
 ![`e2e-nvidia-l40s-x4.yml` on `main`](https://github.com/instructlab/sdg/actions/workflows/e2e-nvidia-l40s-x4.yml/badge.svg?branch=main)
 
 Python library for Synthetic Data Generation
-
-Extension
